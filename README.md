@@ -1,5 +1,8 @@
 ﻿# ESP_32_FreeRTOS_Practice
  
+ ![FreeRTOS](https://user-images.githubusercontent.com/58724748/135718655-f1709f39-dc4c-4515-8413-3833cf0c771f.gif)
+
+ 
  > Executing task in folder FreeRTOS: C:\Users\USer\.platformio\penv\Scripts\platformio.exe run --target upload <
 
 Processing esp32dev (platform: espressif32; board: esp32dev; framework: arduino)
